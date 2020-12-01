@@ -1,3 +1,0 @@
-worker: node index.js
-heroku ps: scale web=o
-heroku ps: scale worker=o
