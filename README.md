@@ -1,3 +1,3 @@
 # m-prison
 
-Bot realizzato da [Naniwan18](https://github.com/Naniwan18) con l'aiuto di [DavidCavallaro](https://github.com/DavidCavallaro)
+Bot realizzato da [Gamer14-code](https://github.com/Gamer14-code) con l'aiuto di [DavidCavallaro](https://github.com/DavidCavallaro)
